@@ -2,7 +2,7 @@
 package main
 
 func main() {
-
+	i()
 }
 
 func i() chan int {
